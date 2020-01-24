@@ -1,2 +1,2 @@
 # infinity-stones
-Space-stones
+Space stones
